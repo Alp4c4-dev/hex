@@ -43,6 +43,7 @@
 build/
 Build/
 build-*/
+Mac/
 
 # CMake generated files
 CMakeFiles/
