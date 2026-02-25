@@ -18,9 +18,9 @@ A console-based implementation of the classic strategy board game "Hex". Written
 *These instructions are for macOS/Linux terminal environments.*
 
 1. Clone the repository:
-   `git clone https://github.com/[YourUsername]/[RepoName].git`
+   `git clone https://github.com/Alp4c4-dev/hex.git`
 2. Navigate to the project directory:
-   `cd [RepoName]`
+   `cd hex`
 3. Compile the source code using the C++17 standard:
    `g++ -std=c++17 main.cpp -o hex_game`
 4. Run the game:
